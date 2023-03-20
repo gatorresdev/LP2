@@ -1,0 +1,17 @@
+C:\Projects\PTesteEventos\PTesteEventos\bin\Debug\net7.0-windows\PTesteEventos.exe
+C:\Projects\PTesteEventos\PTesteEventos\bin\Debug\net7.0-windows\PTesteEventos.deps.json
+C:\Projects\PTesteEventos\PTesteEventos\bin\Debug\net7.0-windows\PTesteEventos.runtimeconfig.json
+C:\Projects\PTesteEventos\PTesteEventos\bin\Debug\net7.0-windows\PTesteEventos.dll
+C:\Projects\PTesteEventos\PTesteEventos\bin\Debug\net7.0-windows\PTesteEventos.pdb
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.csproj.AssemblyReference.cache
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.Form1.resources
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.csproj.GenerateResource.cache
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.AssemblyInfoInputs.cache
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.AssemblyInfo.cs
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.csproj.CoreCompileInputs.cache
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.dll
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\refint\PTesteEventos.dll
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.pdb
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\PTesteEventos.genruntimeconfig.cache
+C:\Projects\PTesteEventos\PTesteEventos\obj\Debug\net7.0-windows\ref\PTesteEventos.dll
